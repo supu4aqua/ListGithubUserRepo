@@ -1,6 +1,6 @@
 'use strict';
 
-//const apiKey = "065955d54ab34f6091aeef0af6e24f02"
+
 
 function displayResults(responseJson) {
     // if there are previous results, remove them
